@@ -1,0 +1,12 @@
+server:
+  port: 9002
+
+
+spring:
+  application:
+    name: course-service
+
+
+eureka:
+  instance:
+    hostname: localhost
