@@ -1,1 +1,1 @@
-# StudentManagement
+A simple microservices application that has 2 services a student service and a course service. It has an API gateway and all services are registered to the Eureka server. Technologies used : Java 11, Spring Boot, Microservices
