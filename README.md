@@ -39,21 +39,20 @@ Course Service – provides course details for a student
 
 ### 🚀 Features
 
-Register services in Eureka Server
-
-Retrieve student details with enrolled courses
-
-Query courses by studentId
-
-Load balancing with @LoadBalanced RestTemplate
-
-Simple in-memory data storage (List-based services)
+1. Register services in Eureka Server
+2. Retrieve student details with enrolled courses
+3. Query courses by studentId
+4. Load balancing with @LoadBalanced RestTemplate
+5. Simple in-memory data storage (List-based services)
 
 ### 📂 Project Structure
 
 com.apigateway         → API Gateway (Spring Cloud Gateway)
+
 com.eserver            → Eureka Server
+
 com.course             → Course Service
+
 com.student            → Student Service
 
 ### ⚙️ Technologies Used
