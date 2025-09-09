@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System – Microservices
 
 ### 📌 Overview
@@ -150,3 +151,7 @@ End-to-end flow can be tested by querying API Gateway for /student/{id} and chec
 ### 👩‍💻 Author
 
 Sayantika Kandar
+=======
+It is a microservices application that includes a student service, a course service, and an API gateway, with all services registered with the Eureka server. 
+Technologies: Java 11, Spring Boot, Microservices, Maven
+>>>>>>> b3ca93e1f88e54e1c468c824dd17e55f0d506e0a
